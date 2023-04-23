@@ -1,6 +1,6 @@
 # Yeoman Generator for Gulp + Sass + Typescript Boilerplate\
 
-Based off of [Nando Moreirame's Gulp generator](https://github.com/nandomoreirame/generator-gulp-boilerplate) 🙏🏼
+Based off of [Nando Moreirame's Gulp generator](https://github.com/nandomoreirame/generator-gulp-boilerplate) and [The Coder Coders Version](https://github.com/thecodercoder/generator-gulp-sass-boilerplate) 🙏🏼
 
 ## Instructions
 
